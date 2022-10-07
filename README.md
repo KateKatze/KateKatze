@@ -5,3 +5,5 @@ Hi 👋
 - 👩‍💻 Knowledge: HTML, CSS, SASS, Bootstrap, Java- and TypeScript, Angular | MySQL, PHP, AJAX, API, Symfony, Java
 - 👩‍⚕️ Radiology Doctor in IT
 - ⚡ Fun fact: I actually like dogs a lil more than cats :)
+
+- All media (pics, videos) used only for private and studying purposes and will be excluded from the projects after request
