@@ -1,6 +1,6 @@
 Hey there 👋
 
-🔭 I am a junior developer studying computer science
+🔭 I am a Junior Developer studying Computer Science
 
 🌱 Here are some homeworks, code reviews and personal projects
 
